@@ -1,3 +1,5 @@
+# Easy Questions
+
 **Q1**: Show first name, last name, and gender of patients whose gender is 'M'.
 
 <img width="518" alt="1" src="https://github.com/gagansaleria/Healthcare_Database_Project---SQL-practice.com/assets/150334606/c165326d-f5f6-48a6-9f50-878fb14ca39f">
