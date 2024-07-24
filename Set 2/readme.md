@@ -1,3 +1,5 @@
+# Medium Questions
+
 **Q1-** Show unique birth years from patients and order them by ascending.
 
 <img width="514" alt="1" src="https://github.com/gagansaleria/Healthcare_Database_Project---SQL-practice.com/assets/150334606/84477578-87eb-4f7d-820b-848a792c7e9c">
