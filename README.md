@@ -15,3 +15,11 @@ The database schema consists of the following tables:
 **4. Province Names-** province_id, province_name
 
 <img width="409" alt="Schema" src="https://github.com/gagansaleria/Healthcare_Database_Project---SQL-Practice.com/assets/150334606/7416a32f-356b-440f-a5eb-be8bcf396bbc">
+
+## Contact
+
+If you have any questions or would like to discuss in more detail, feel free to reach out to me at [LinkedIn](https://www.linkedin.com/in/gagansays/).
+
+---
+
+Thank you for visiting this repository. I hope you find this informative and insightful!
